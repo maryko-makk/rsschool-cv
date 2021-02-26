@@ -28,4 +28,4 @@ HTML, CSS, JS, Git, VS Code, Adobe PS, SketchUp, Google Forms
   * Applied Mathematics and Computer Science, Bachelor Degree
 
 ## Languages
-* English: B0
+* English: B1

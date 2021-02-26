@@ -1,2 +1,1 @@
-# rsschool-cv
-Rsschool cv
+https://maryko-makk.github.io/rsschool-cv/cv

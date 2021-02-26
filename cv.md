@@ -26,3 +26,6 @@ HTML, CSS, JS, Git, VS Code, Adobe PS, SketchUp, Google Forms
   * Learn Color Design
 * **2001-2005 [Novosibirsk State University](https://www.nsu.ru/n/)**
   * Applied Mathematics and Computer Science, Bachelor Degree
+
+## Languages
+* English: B0

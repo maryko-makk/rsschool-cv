@@ -62,8 +62,12 @@ article {
   color: #1f2c43;
 }
 
-ul li {
-  list-style-type: square;
+ul {
+  list-style: square;
+}
+
+.experience li,
+.education li {
   padding: 5px 0;
 }
 

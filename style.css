@@ -77,6 +77,10 @@ footer {
   color: #fff;
 }
 
+footer b {
+  color: #1f2c43;
+}
+
 .logo,
 .github {
   height: 50px;

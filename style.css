@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+}
+
+h2 {
+  font-size: 32px;
+  padding: 20px 0 0 20px;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+  margin: 40px auto;
+  width: 60%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+}
+
+aside {
+  padding: 20px;
+  width: 20%;
+  min-width: 300px;
+  color: #fff;
+  background-color: #1f2c43;
+}
+
+.contact,
+.skills,
+.languages,
+.summary,
+.experience,
+.education {
+  padding: 10px 20px;
+}
+
+figure {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+
+.photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+article {
+  width: 80%;
+  min-width: 400px;
+  color: #1f2c43;
+}
+
+ul {
+  list-style: square;
+}
+
+.experience li,
+.education li {
+  padding: 5px 0;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px auto;
+  width: 60%;
+  color: #fff;
+}
+
+footer b {
+  color: #1f2c43;
+}
+
+.logo,
+.github {
+  height: 50px;
+}
+
